@@ -26,6 +26,10 @@ h1 {
 h2 {
   font-size: 64px;
 }
+
+img {
+  border-radius: 4px;
+}
 p {
   color: black;
   font-family: var(--default-font-family);
